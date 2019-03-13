@@ -3,10 +3,10 @@ I've been playing videogames for a really long time.  When I'm not gaming or wor
 
 **Social Links**
 
--[DLive](dlive.tv/sl0th) 
--[Twitter](twitter.com/slothplaysnecro)
--[Discord Server](discord.gg/NmCaNR4)
--[Telegram](t.me/slothorius)
+- [DLive](dlive.tv/sl0th) 
+- [Twitter](twitter.com/slothplaysnecro)
+- [Discord Server](discord.gg/NmCaNR4)
+- [Telegram](t.me/slothorius)
 
 
 **Stream FAQ**
@@ -43,18 +43,18 @@ Feel free to ping me on Twitter or Discord and I'll get back to you when I have 
 
 I use [this](http://www.amazon.com/HP-Envy-700-215xt-Desktop-Processor/dp/B00IIC3H7U)  with an RX480 shoved in there. Fancy, right?
 
--Monitor:  [ViewSonic VA2246 1920x1080 LED Monitor](http://ap.viewsonic.com/my/products/lcd/VA2246-LED.php)
--Keyboard:  [Corsair K70 Mechanical Keyboard](http://www.amazon.com/Corsair-Vengeance-Mechanical-Gaming-Keyboard/dp/B00CD1FC6G)
--SSD:  [Samsung 860 EVO 500GB 2.5 Inch SATA III Internal SSD](https://www.amazon.com/gp/product/B0781Z7Y3S)
--Mouse:  [Razer Naga Trinity](https://www.amazon.com/Razer-Naga-Trinity-Optical-Interchangeable/dp/B0788MCRGC)
--Headset/Microphone:  [Corsair VOID Wireless](https://www.amazon.com/Corsair-Void-Wireless-Gaming-Headset/dp/B0748N6796)
--Fancy Microphone:  [Blue Yeti](https://www.amazon.com/dp/B00N1YPXW2/ref=twister_B008FO0X1E?_encoding=UTF8&th=1)
--Webcam:  [Logitech HD Pro Webcam C920](http://www.amazon.com/Logitech-Webcam-Widescreen-Calling-Recording/dp/B006JH8T3S)
--Green Screen:  [ePhoto 10' X 12' Video Photography Studio Chroma Key Green Screen](http://www.amazon.com/ePhoto-Photography-Chromakey-Background-Supporting/dp/B0031LCB02/ref=sr_1_18?s=electronics&ie=UTF8&qid=1435978338&sr=1-18&keywords=green+screen)
--RAM: [Patriot Signature 8GB DIMM DDR3 CL11 PC3-12800 (1600MHz) PSD38G16002](https://www.amazon.com/dp/B007HILOWG)
--Left Hand Keypad: [Razer Tartarus V2](https://www.amazon.com/RAZER-Tartarus-Progammable-Detachable-Mecha-Membrane/dp/B07754PYFK)
--Mouse Mat: [Corsair MM300](https://www.amazon.com/CORSAIR-MM300-Anti-Fray-High-Performance-CH-9000108-WW/dp/B01798VS4C/)
--Beer of Choice: [Ellicotville Brewery's Blueberry Wheat Ale](https://ellicottvillebrewing.com/ebc-blueberry-wheat/) (but I'll go for most any craft beer :P)
+- Monitor:  [ViewSonic VA2246 1920x1080 LED Monitor](http://ap.viewsonic.com/my/products/lcd/VA2246-LED.php)
+- Keyboard:  [Corsair K70 Mechanical Keyboard](http://www.amazon.com/Corsair-Vengeance-Mechanical-Gaming-Keyboard/dp/B00CD1FC6G)
+- SSD:  [Samsung 860 EVO 500GB 2.5 Inch SATA III Internal SSD](https://www.amazon.com/gp/product/B0781Z7Y3S)
+- Mouse:  [Razer Naga Trinity](https://www.amazon.com/Razer-Naga-Trinity-Optical-Interchangeable/dp/B0788MCRGC)
+- Headset/Microphone:  [Corsair VOID Wireless](https://www.amazon.com/Corsair-Void-Wireless-Gaming-Headset/dp/B0748N6796)
+- Fancy Microphone:  [Blue Yeti](https://www.amazon.com/dp/B00N1YPXW2/ref=twister_B008FO0X1E?_encoding=UTF8&th=1)
+- Webcam:  [Logitech HD Pro Webcam C920](http://www.amazon.com/Logitech-Webcam-Widescreen-Calling-Recording/dp/B006JH8T3S)
+- Green Screen:  [ePhoto 10' X 12' Video Photography Studio Chroma Key Green Screen](http://www.amazon.com/ePhoto-Photography-Chromakey-Background-Supporting/dp/B0031LCB02/ref=sr_1_18?s=electronics&ie=UTF8&qid=1435978338&sr=1-18&keywords=green+screen)
+- RAM: [Patriot Signature 8GB DIMM DDR3 CL11 PC3-12800 (1600MHz) PSD38G16002](https://www.amazon.com/dp/B007HILOWG)
+- Left Hand Keypad: [Razer Tartarus V2](https://www.amazon.com/RAZER-Tartarus-Progammable-Detachable-Mecha-Membrane/dp/B07754PYFK)
+- Mouse Mat: [Corsair MM300](https://www.amazon.com/CORSAIR-MM300-Anti-Fray-High-Performance-CH-9000108-WW/dp/B01798VS4C/)
+- Beer of Choice: [Ellicotville Brewery's Blueberry Wheat Ale](https://ellicottvillebrewing.com/ebc-blueberry-wheat/) (but I'll go for most any craft beer :P)
 
 **Stream Schedule**
 
