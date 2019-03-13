@@ -47,8 +47,9 @@ I use [this](http://www.amazon.com/HP-Envy-700-215xt-Desktop-Processor/dp/B00IIC
 - Keyboard:  [Corsair K70 Mechanical Keyboard](http://www.amazon.com/Corsair-Vengeance-Mechanical-Gaming-Keyboard/dp/B00CD1FC6G)
 - SSD:  [Samsung 860 EVO 500GB 2.5 Inch SATA III Internal SSD](https://www.amazon.com/gp/product/B0781Z7Y3S)
 - Mouse:  [Razer Naga Trinity](https://www.amazon.com/Razer-Naga-Trinity-Optical-Interchangeable/dp/B0788MCRGC)
-- Headset/Microphone:  [Corsair VOID Wireless](https://www.amazon.com/Corsair-Void-Wireless-Gaming-Headset/dp/B0748N6796)
-- Fancy Microphone:  [Blue Yeti](https://www.amazon.com/dp/B00N1YPXW2/ref=twister_B008FO0X1E?_encoding=UTF8&th=1)
+- Headset/Microphone:  [Corsair VOID Wireless](https://www.amazon.com/Corsair-Void-Wireless-Gaming-Headset/dp/B0748N6796). I use this most of the time.
+- Fancy Microphone:  [Blue Yeti](https://www.amazon.com/dp/B00N1YPXW2/ref=twister_B008FO0X1E?_encoding=UTF8&th=1). I only use this for voiceover work as it doesn't really play well with my streaming environment.
+- Fancier Microphone: [Behringer Ultravoice XM1800S](https://www.amazon.com/Behringer-Ultravoice-XM1800S-Instrument-Microphones/dp/B000NJ2TIE) with a [Behringer XENYX 1204USB Mixer](https://www.amazon.com/Behringer-1204USB-BEHRINGER-XENYX/dp/B00871VO5Y). I only bring this out for very special occasions, as it's a pain in the ass to use with my workflow.
 - Webcam:  [Logitech HD Pro Webcam C920](http://www.amazon.com/Logitech-Webcam-Widescreen-Calling-Recording/dp/B006JH8T3S)
 - Green Screen:  [ePhoto 10' X 12' Video Photography Studio Chroma Key Green Screen](http://www.amazon.com/ePhoto-Photography-Chromakey-Background-Supporting/dp/B0031LCB02/ref=sr_1_18?s=electronics&ie=UTF8&qid=1435978338&sr=1-18&keywords=green+screen)
 - RAM: [Patriot Signature 8GB DIMM DDR3 CL11 PC3-12800 (1600MHz) PSD38G16002](https://www.amazon.com/dp/B007HILOWG)
