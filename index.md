@@ -3,13 +3,10 @@ I've been playing videogames for a really long time.  When I'm not gaming or wor
 
 **Social Links**
 
-[DLive](dlive.tv/sl0th) 
-
-[Twitter](twitter.com/slothplaysnecro)
-
-[Discord Server](discord.gg/NmCaNR4)
-
-[Telegram](t.me/slothorius)
+-[DLive](dlive.tv/sl0th) 
+-[Twitter](twitter.com/slothplaysnecro)
+-[Discord Server](discord.gg/NmCaNR4)
+-[Telegram](t.me/slothorius)
 
 
 **Stream FAQ**
