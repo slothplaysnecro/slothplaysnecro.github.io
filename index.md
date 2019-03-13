@@ -2,9 +2,13 @@
 I've been playing videogames for a really long time.  When I'm not gaming or working, I enjoy cooking for my family and hanging out with my dogs.
 
 **Social Links**
+
 [DLive](dlive.tv/sl0th) 
+
 [Twitter](twitter.com/slothplaysnecro)
+
 [Discord Server](discord.gg/NmCaNR4)
+
 [Telegram](t.me/slothorius)
 
 
@@ -32,7 +36,8 @@ Check my stream schedule. I play Wizard101 at least once a week.
 Feel free to ping me on Twitter or Discord and I'll get back to you when I have a spare moment.
 
 **Computer Specs**
-I use  [this](http://www.amazon.com/HP-Envy-700-215xt-Desktop-Processor/dp/B00IIC3H7U)  with an RX480 shoved in there. Fancy, right?
+
+I use [this](http://www.amazon.com/HP-Envy-700-215xt-Desktop-Processor/dp/B00IIC3H7U)  with an RX480 shoved in there. Fancy, right?
 
 Monitor:  [ViewSonic VA2246 1920x1080 LED Monitor](http://ap.viewsonic.com/my/products/lcd/VA2246-LED.php)
 Keyboard:  [Corsair K70 Mechanical Keyboard](http://www.amazon.com/Corsair-Vengeance-Mechanical-Gaming-Keyboard/dp/B00CD1FC6G)
@@ -48,6 +53,7 @@ Mouse Mat: [Corsair MM300](https://www.amazon.com/CORSAIR-MM300-Anti-Fray-High-P
 Beer of Choice: [Ellicotville Brewery's Blueberry Wheat Ale](https://ellicottvillebrewing.com/ebc-blueberry-wheat/) (but I'll go for most any craft beer :P)
 
 **Stream Schedule**
+
 [Here's a link to my DLive channel.](dlive.tv/sl0th)
 
 I post a schedule on [Twitter](https://twitter.com/slothplaysnecro) and [Discord](http://discord.gg/NmCaNR4) every Saturday. The schedule changes every week because my work hours change every week. However, the schedule will always follow these rules:
@@ -60,11 +66,13 @@ I post a schedule on [Twitter](https://twitter.com/slothplaysnecro) and [Discord
 Unannounced bonus streams may happen from time to time. If you want notifications for those, make sure to join my Discord server.
 
 **Stream Music**
+
 I listen to a lot of music on stream. You'll find me most of the time listening to [r/a/dio](https://r-a-d.io) or [Rainwave](https://rainwave.cc/all/).
 
 The currently playing song will always be displayed on screen.
 
 **Donate or Subscribe**
+
 Streaming is not my full-time profession and I don't need your financial support to continue living.
 
 If you really want to leave a tip, you may do so  [here](https://streamlabs.com/slothplaysnecro). You may also use LINO. Thanks for your support!
