@@ -1,58 +1,70 @@
-# We main necromancer.
+## Hi, I'm Sloth.
+I've been playing videogames for a really long time.  When I'm not gaming or working, I enjoy cooking for my family and hanging out with my dogs.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/slothplaysnecro/slothplaysnecro.github.io/master/images/Blood_Is_Power.png" alt="Blood Is Power"/>
-</p>
+**Social Links**
+[DLive](dlive.tv/sl0th) 
+[Twitter](twitter.com/slothplaysnecro)
+[Discord Server](discord.gg/NmCaNR4)
+[Telegram](t.me/slothorius)
 
-**Researchers in Plague** is a PvE guild made entirely of necromancer mains and enthusiasts. We only run necromancers and common support builds in our endgame PvE.
 
-## Rules
+**Stream FAQ**
 
-* Don't be an asshat. This means no toxicity, racism, elitism, etc. It's really hard to enjoy the best class in the game when someone's being a jerk.
-* All endgame group content within the guild must be played on a necromancer or on a support class. See the Acceptable Builds section for more information.
-* No rep requirements. Those are dumb.
+*When do you stream?*
+See below for information on my stream schedule.
 
-## Requirements to Join
+*What are the chat rules?*
+Don't be a dick. Links are allowed, but use common sense.
 
-* Between all of your necromancers, you must have at least 250 hours played. We are looking for necro mains, not people that just play it as a flavor of the month class.
-* You must agree that necromancer is the best class in the game. All other support classes exist for the sole purpose of buffing necros for maximum necro. Praise necro.
+*What games do you play?*
+I prefer playing MMOs, card games in Tabletop Simulator, Mystery Dungeon roguelites, and long story-driven games. Some of my favorites include Pokemon Mystery Dungeon: Explorers of Sky, Wizard101, Path of Exile, Final Fantasy VI, and Crypt of the Necrodancer. You'll find that my tastes vary quite a bit, which will be reflected on stream.
 
-## Acceptable Builds
+*What's with all the sloths?*
+Wizard101 has a mount called the Slowpoke Sloth. While mounts normally make you go faster, this one makes you go slower. I themed my Twitch channel around sloths, and the rest is history.
 
-This is a guild of necro mains, so it only makes sense that we stack as many necros as possible without sacrificing DPS. To enforce this, we have a list of acceptable builds that are alright to play in our endgame content.
-Endgame content is defined as any dungeon, raid, or fractal. You can bring whatever you want to guild missions and open world shenanigans, but necro would be cool.
+*How can I donate to you?*
+Check out the panel on donating below. Thanks for your support.
 
-![necro](/images/necro.png) Any non-troll necromancer build.
+*When are you going to play Wizard101?*
+Check my stream schedule. I play Wizard101 at least once a week.
 
-![chrono](/images/chrono.png) A chronomancer primarily built to share quickness and alacrity.
+*My question isn't here!*
+Feel free to ping me on Twitter or Discord and I'll get back to you when I have a spare moment.
 
-![druid](/images/druid.png) A druid build primarily focused on healing and pumping boons to boost DPS. Off healers are okay too, but I will eternally shame you for playing literally anything but heal scourge up here.
+**Computer Specs**
+I use  [this](http://www.amazon.com/HP-Envy-700-215xt-Desktop-Processor/dp/B00IIC3H7U)  with an RX480 shoved in there. Fancy, right?
 
-![warrior](/images/warrior.png) A warrior build that brings both Banner of Strength and Banner of Discipline. **Please run Empower Allies if you have two or more power necros.**
+Monitor:  [ViewSonic VA2246 1920x1080 LED Monitor](http://ap.viewsonic.com/my/products/lcd/VA2246-LED.php)
+Keyboard:  [Corsair K70 Mechanical Keyboard](http://www.amazon.com/Corsair-Vengeance-Mechanical-Gaming-Keyboard/dp/B00CD1FC6G)
+SSD:  [Samsung 860 EVO 500GB 2.5 Inch SATA III Internal SSD](https://www.amazon.com/gp/product/B0781Z7Y3S)
+Mouse:  [Razer Naga Trinity](https://www.amazon.com/Razer-Naga-Trinity-Optical-Interchangeable/dp/B0788MCRGC)
+Headset/Microphone:  [Corsair VOID Wireless](https://www.amazon.com/Corsair-Void-Wireless-Gaming-Headset/dp/B0748N6796)
+Fancy Microphone:  [Blue Yeti](https://www.amazon.com/dp/B00N1YPXW2/ref=twister_B008FO0X1E?_encoding=UTF8&th=1)
+Webcam:  [Logitech HD Pro Webcam C920](http://www.amazon.com/Logitech-Webcam-Widescreen-Calling-Recording/dp/B006JH8T3S)
+Green Screen:  [ePhoto 10' X 12' Video Photography Studio Chroma Key Green Screen](http://www.amazon.com/ePhoto-Photography-Chromakey-Background-Supporting/dp/B0031LCB02/ref=sr_1_18?s=electronics&ie=UTF8&qid=1435978338&sr=1-18&keywords=green+screen)
+RAM: [Patriot Signature 8GB DIMM DDR3 CL11 PC3-12800 (1600MHz) PSD38G16002](https://www.amazon.com/dp/B007HILOWG)
+Left Hand Keypad: [Razer Tartarus V2](https://www.amazon.com/RAZER-Tartarus-Progammable-Detachable-Mecha-Membrane/dp/B07754PYFK)
+Mouse Mat: [Corsair MM300](https://www.amazon.com/CORSAIR-MM300-Anti-Fray-High-Performance-CH-9000108-WW/dp/B01798VS4C/)
+Beer of Choice: [Ellicotville Brewery's Blueberry Wheat Ale](https://ellicottvillebrewing.com/ebc-blueberry-wheat/) (but I'll go for most any craft beer :P)
 
-### Acceptable Non-Necro DPS Builds
+**Stream Schedule**
+[Here's a link to my DLive channel.](dlive.tv/sl0th)
 
-![mirage](/images/mirage.png) If the guild is fighting Matthias, it is okay to run one mirage for reflects.
+I post a schedule on [Twitter](https://twitter.com/slothplaysnecro) and [Discord](http://discord.gg/NmCaNR4) every Saturday. The schedule changes every week because my work hours change every week. However, the schedule will always follow these rules:
 
-![engi](/images/engi.png) DPS engineers may be run in tandem with condi necros to boost DPS with Pinpoint Distribution.
+- If I have an opening shift, the stream will start shortly after I get home and end at 10:30pm EST.  
+- If I have a closing shift, there will not be a stream that day. In the future, I may try doing morning streams, but I can't make that commitment now.  
+- If I have a day off, streams will start at 11am EST and go until I have to sleep or IRL responsibilities interrupt.  
+- At least one day each week will be Wizard101 content. Other games I play will vary on what I'm interested in at the time.
 
-If you happen to not be playing necro at the moment, please respect this rule by only playing a build that will significantly assist a necromancer in PvE.
+Unannounced bonus streams may happen from time to time. If you want notifications for those, make sure to join my Discord server.
 
-## Raids
+**Stream Music**
+I listen to a lot of music on stream. You'll find me most of the time listening to [r/a/dio](https://r-a-d.io) or [Rainwave](https://rainwave.cc/all/).
 
-We are currently working on forming a raid static. In order to be considered, you must meet the following non-negotiable requirements.
+The currently playing song will always be displayed on screen.
 
-* You have at least one kill on every raid boss, including wing 5. We are *not* a training guild.
-* You understand all boss mechanics relevant to your role(s).
-* You have one fully geared DPS necromancer and two different acceptable support builds.
-    * You must be able to maintain a minimum of 10k target boss DPS on each encounter.
-    * Holosmith and Mirage are nice to have, but not required.
-    * Players will switch between support and necro DPS each week so we all get a chance to play the best class in the game.
-* You understand why stacking necromancers works well and are able to reliably epibounce.
-* You understand that mistakes happen sometimes, and are able to take them in stride. We will not consider toxic players.
+**Donate or Subscribe**
+Streaming is not my full-time profession and I don't need your financial support to continue living.
 
-Submit your kill proof by using `$kp` in our Discord server. You may also include logs if you wish.
-
-## Sounds good?
-
-If this guild interests you, please [join our Discord server](http://tiny.cc/GW2RIP).
+If you really want to leave a tip, you may do so  [here](https://streamlabs.com/slothplaysnecro). You may also use LINO. Thanks for your support!
