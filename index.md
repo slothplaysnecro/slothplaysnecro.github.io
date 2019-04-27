@@ -3,7 +3,7 @@ I've been playing videogames for a really long time.  When I'm not gaming or wor
 
 **Social Links**
 
-- [DLive](dlive.tv/sl0th) 
+- [DLive](twitch.tv/slothplaysnecro) 
 - [Twitter](twitter.com/slothplaysnecro)
 - [Discord Server](discord.gg/NmCaNR4)
 - [Telegram](t.me/slothorius)
@@ -29,11 +29,11 @@ Wizard101 has a mount called the Slowpoke Sloth. While mounts normally make you 
 
 *How can I donate to you?*
 
-Check out the panel on donating below. Thanks for your support.
+Check out the information on donating below. Thanks for your support.
 
 *When are you going to play Wizard101?*
 
-Check my stream schedule. I play Wizard101 at least once a week.
+Check my stream schedule. I try to play Wizard101 at least once a week.
 
 *My question isn't here!*
 
@@ -59,14 +59,9 @@ I use [this](http://www.amazon.com/HP-Envy-700-215xt-Desktop-Processor/dp/B00IIC
 
 **Stream Schedule**
 
-[Here's a link to my DLive channel.](dlive.tv/sl0th)
+[Here's a link to my Twitch channel.](twitch.tv/slothplaysnecro)
 
-I post a schedule on [Twitter](https://twitter.com/slothplaysnecro) and [Discord](http://discord.gg/NmCaNR4) every Saturday. The schedule changes every week because my work hours change every week. However, the schedule will always follow these rules:
-
-- If I have an opening shift, the stream will start shortly after I get home and end at 10:30pm EST.  
-- If I have a closing shift, there will not be a stream that day. In the future, I may try doing morning streams, but I can't make that commitment now.  
-- If I have a day off, streams will start at 11am EST and go until I have to sleep or IRL responsibilities interrupt.  
-- At least one day each week will be Wizard101 content. Other games I play will vary on what I'm interested in at the time.
+I post a schedule on [Twitter](https://twitter.com/slothplaysnecro) and [Discord](http://discord.gg/NmCaNR4) every Saturday. The schedule changes every week because my work hours change every week.
 
 Unannounced bonus streams may happen from time to time. If you want notifications for those, make sure to join my Discord server.
 
@@ -80,4 +75,4 @@ The currently playing song will always be displayed on screen.
 
 Streaming is not my full-time profession and I don't need your financial support to continue living.
 
-If you really want to leave a tip, you may do so  [here](https://streamlabs.com/slothplaysnecro). You may also use LINO. Thanks for your support!
+If you really want to leave a tip, you may do so  [here](https://streamlabs.com/slothplaysnecro). Thanks for your support!
