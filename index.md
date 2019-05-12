@@ -33,7 +33,7 @@ Check out the information on donating below. Thanks for your support.
 
 *When are you going to play Wizard101?*
 
-Check my stream schedule. I try to play Wizard101 at least once a week.
+Check my stream schedule. I try to play Wizard101 at least once a week, but I can't guarantee it.
 
 *My question isn't here!*
 
@@ -51,7 +51,7 @@ I use [this](http://www.amazon.com/HP-Envy-700-215xt-Desktop-Processor/dp/B00IIC
 - Microphone:  [Blue Yeti](https://www.amazon.com/dp/B00N1YPXW2/ref=twister_B008FO0X1E?_encoding=UTF8&th=1).
 - Fancier Microphone: [Behringer Ultravoice XM1800S](https://www.amazon.com/Behringer-Ultravoice-XM1800S-Instrument-Microphones/dp/B000NJ2TIE) with a [Behringer XENYX 1204USB Mixer](https://www.amazon.com/Behringer-1204USB-BEHRINGER-XENYX/dp/B00871VO5Y). I only bring this out for very special occasions, as it's a pain in the ass to use with my workflow.
 - Webcam:  [Logitech HD Pro Webcam C920](http://www.amazon.com/Logitech-Webcam-Widescreen-Calling-Recording/dp/B006JH8T3S)
-- Green Screen:  [ePhoto 10' X 12' Video Photography Studio Chroma Key Green Screen](http://www.amazon.com/ePhoto-Photography-Chromakey-Background-Supporting/dp/B0031LCB02/ref=sr_1_18?s=electronics&ie=UTF8&qid=1435978338&sr=1-18&keywords=green+screen)
+- Blackout Curtains: [Windsor Light Blocking Curtain Panel - Eclipse](https://www.target.com/p/windsor-light-blocking-curtain-panel-eclipse-153/-/A-15401061)
 - RAM: [Patriot Signature 8GB DIMM DDR3 CL11 PC3-12800 (1600MHz) PSD38G16002](https://www.amazon.com/dp/B007HILOWG)
 - Left Hand Keypad: [Razer Tartarus V2](https://www.amazon.com/RAZER-Tartarus-Progammable-Detachable-Mecha-Membrane/dp/B07754PYFK)
 - Mouse Mat: [Corsair MM300](https://www.amazon.com/CORSAIR-MM300-Anti-Fray-High-Performance-CH-9000108-WW/dp/B01798VS4C/)
@@ -71,8 +71,18 @@ I listen to a lot of music on stream. You'll find me most of the time listening 
 
 The currently playing song will always be displayed on screen.
 
-**Donate or Subscribe**
+**Support Me**
 
 Streaming is not my full-time profession and I don't need your financial support to continue living.
 
 If you really want to leave a tip, you may do so  [here](https://streamlabs.com/slothplaysnecro). Thanks for your support!
+
+I'm a Twitch affiliate, so I have a sub button on my Twitch page. You can either use your free Twitch Prime sub or go full manmode with your credit card.
+
+**Sponsors**
+
+*The following section contains referral links and coupon codes. I will get a cut of the sale when you use them.*
+
+I am an affiliate for [Soesic Clothing](https://www.soesicclothing.co?rfsn=2678637.702abf), a streetwear label based in Kentucky. You can use coupon code "slothplaysnecro" at checkout for 15% off your order. My personal favorite is their [Katakana hoodie](https://soesicclothing.co/collections/mens-hoodies/products/soesic-w-katakana-hoodie?rfsn=2678637.702abf)!
+
+I am a Humble Bundle partner. Humble sells video games while allowing an opportunity to contribute to charity. Every once in a while, they make a cool bundle but my favorite part is [Humble Monthly](https://www.humblebundle.com/monthly?partner=slothplaysnecro). I've been subscribed to them for a while and I've gotten a lot of great value out of it. If you're looking for a game to buy, I recently played through [Katana Zero](https://www.humblebundle.com/store/katana-zero?partner=slothplaysnecro) and *really* enjoyed how it made you feel like a doped out sword-slinging badass without being too difficult.
