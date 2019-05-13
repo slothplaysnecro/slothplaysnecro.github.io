@@ -41,11 +41,13 @@ Feel free to ping me on Twitter or Discord and I'll get back to you when I have 
 
 **Computer Specs**
 
+*Some links in this section are affiliate links. I get paid when you use them to buy stuff.*
+
 I use [this](http://www.amazon.com/HP-Envy-700-215xt-Desktop-Processor/dp/B00IIC3H7U)  with an RX480 shoved in there. Fancy, right?
 
 - Monitor:  [ViewSonic VA2246 1920x1080 LED Monitor](http://ap.viewsonic.com/my/products/lcd/VA2246-LED.php)
 - Keyboard:  [Corsair K70 Mechanical Keyboard](http://www.amazon.com/Corsair-Vengeance-Mechanical-Gaming-Keyboard/dp/B00CD1FC6G)
-- SSD:  [Samsung 860 EVO 500GB 2.5 Inch SATA III Internal SSD](https://www.amazon.com/gp/product/B0781Z7Y3S)
+- SSD:  [Samsung 860 EVO 500GB 2.5 Inch SATA III Internal SSD](https://www.amazon.com/Samsung-500GB-Internal-MZ-76E500B-AM/dp/B0781Z7Y3S/ref=as_sl_pc_tf_til?tag=slothplaysnec-20&linkCode=w00&linkId=af0d05f55cc548eb5126f729c8c3972f&creativeASIN=B0781Z7Y3S)
 - Mouse:  [Razer Naga Trinity](https://www.amazon.com/Razer-Naga-Trinity-Optical-Interchangeable/dp/B0788MCRGC)
 - Headset:  [Corsair VOID Wireless](https://www.amazon.com/Corsair-Void-Wireless-Gaming-Headset/dp/B0748N6796)
 - Microphone:  [Blue Yeti](https://www.amazon.com/dp/B00N1YPXW2/ref=twister_B008FO0X1E?_encoding=UTF8&th=1).
@@ -56,6 +58,10 @@ I use [this](http://www.amazon.com/HP-Envy-700-215xt-Desktop-Processor/dp/B00IIC
 - Left Hand Keypad: [Razer Tartarus V2](https://www.amazon.com/RAZER-Tartarus-Progammable-Detachable-Mecha-Membrane/dp/B07754PYFK)
 - Mouse Mat: [Corsair MM300](https://www.amazon.com/CORSAIR-MM300-Anti-Fray-High-Performance-CH-9000108-WW/dp/B01798VS4C/)
 - Beer of Choice: [Ellicotville Brewery's Blueberry Wheat Ale](https://ellicottvillebrewing.com/ebc-blueberry-wheat/) (but I'll go for most any craft beer :P)
+
+**IRL Equipment**
+
+- 
 
 **Stream Schedule**
 
