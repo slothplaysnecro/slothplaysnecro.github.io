@@ -1,0 +1,187 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <style type="text/css">
+            /* Shared styles */
+            body {
+                font-family: Helvetica, sans-serif;
+                font-size: 16px;
+                color: #34302e;
+                margin: 0.25in;
+            }
+            @page {
+                size: letter portrait;
+                margin: 0.25in;
+            }
+            .name {
+                font-size: 18px;
+                font-family: Helvetica, sans-serif;
+                font-weight: normal;
+                margin: 0 0 10px 0;
+            }
+            .categories {
+                color: #605D5D;
+                font-size: 14px;
+                font-family: Helvetica, sans-serif;
+                font-style: italic;
+            }
+            .rating {
+                color: #d10505;
+                font-size: 14px;
+            }
+            .metadata {
+                font-size: 14px;
+            }
+            .infobox p {
+                margin: 0;
+                line-height: 150%;
+            }
+            .subhead {
+                color: #d10505;
+                font-weight: bold;
+                font-size: 14px;
+                text-transform: uppercase;
+                margin: 10px 0;
+            }
+            
+            .ingredients p {
+                margin: 4px 0;
+            }
+            /* To prevent nutrition/directions from getting too close
+               to ingredients */
+            .ingredients {
+                padding-bottom: 10px;
+            }
+            .clear {
+                clear:both;
+            }
+            a {
+                color: #4990E2;
+                text-decoration: none;
+            }
+            /* Full page specific styles */
+            .text {
+                line-height: 130%;
+            }
+            .photobox {
+                float: left;
+                margin-right: 14px;
+                            }
+            .photo {
+                max-width: 140px;
+                max-height: 140px;
+                width: auto;
+                height: auto;
+            }
+            .inline-image {
+                max-width: 25%;
+                max-height: 25%;
+                width: auto;
+                height: auto;
+            }
+            .photoswipe {
+                border: 1px #dddddd solid;
+                cursor: pointer;
+            }
+            .pswp__caption__center {
+                text-align: center !important;
+            }
+            .recipe {
+                page-break-after: always;
+                            }
+            .recipe:first-child {
+                border-top: 0 none;
+                margin-top: 0;
+                padding-top: 0;
+            }
+        </style>
+    </head>
+    <body>
+        <!-- Recipe -->
+<div class="recipe" itemscope itemtype="http://schema.org/Recipe" >
+    
+    <div class="infobox">
+
+        <!-- Image -->
+        <div class="photobox">
+            <a href="https://static01.nyt.com/images/2019/03/15/dining/kc-reuben/kc-reuben-articleLarge.jpg">
+                <img src="Images/E6E0F4CA-4BEF-4420-BFAE-E465152607E6/6B6B3028-0AEF-468E-955E-D156CC22486C.jpg" itemprop="image" class="photo photoswipe"/>
+            </a>
+                    </div>
+
+        <!-- Name -->
+        <h1 itemprop="name" class="name">Reuben Sandwich</h1>
+        
+        <!-- Info -->
+        
+        <!-- Rating, categories -->
+        <p itemprop="aggregateRating" class="rating" value="0"></p>
+        
+        <p class="metadata">
+        
+            <!-- Cook time, prep time, servings, difficulty -->
+            <b>Cook Time: </b><span itemprop="">30 minutes</span>
+            <b>Servings: </b><span itemprop="">Yield 4 sandwiches</span>
+
+            <!-- Source -->
+                <b>Source: </b>
+                    <a itemprop="url" href="https://cooking.nytimes.com/recipes/1020100-reuben-sandwich?action=click&amp;module=Global%20Search%20Recipe%20Card&amp;pgType=search&amp;rank=3">
+                        <span itemprop="author">Cooking.nytimes.com</span>
+                    </a>
+                            
+        </p>
+        
+        <div class="clear"></div>
+
+    </div>
+    
+    <div class="left-column">
+
+        <!-- Ingredients -->
+        <div class="ingredientsbox">
+            <h3 class="subhead">Ingredients</h3>
+            <div class="ingredients text">
+                <p class="line" itemprop="recipeIngredient"><strong>FOR THE RUSSIAN DRESSING:</strong></p><p class="line" itemprop="recipeIngredient"><strong>½</strong> cup mayonnaise</p><p class="line" itemprop="recipeIngredient"><strong>5</strong> tablespoons ketchup</p><p class="line" itemprop="recipeIngredient"><strong>3</strong> tablespoons dill pickle relish (not sweet)</p><p class="line" itemprop="recipeIngredient"><strong>1</strong> tablespoon minced onion</p><p class="line" itemprop="recipeIngredient"><strong>1</strong> teaspoon yellow mustard</p><p class="line" itemprop="recipeIngredient"><strong>1</strong> teaspoon Worcestershire sauce</p><p class="line" itemprop="recipeIngredient"><strong>FOR THE SANDWICHES:</strong></p><p class="line" itemprop="recipeIngredient"><strong>8</strong> slices rye sandwich bread</p><p class="line" itemprop="recipeIngredient"><strong>4</strong> tablespoons unsalted butter, at room temperature</p><p class="line" itemprop="recipeIngredient"><strong>1</strong> pound thinly sliced corned beef</p><p class="line" itemprop="recipeIngredient"><strong>1</strong> cup drained sauerkraut (about 6 ounces)</p><p class="line" itemprop="recipeIngredient"><strong>8</strong> slices Swiss cheese (about 6 ounces)</p>
+            </div>
+        </div>
+        
+        <!-- Nutrition (in two-column mode it goes below the ingredients) -->
+
+    </div>
+    
+    <div class="right-column">
+    
+    <!-- Description -->
+
+    <!-- Directions -->
+    <div class="directionsbox">
+        <h3 class="subhead">Directions</h3>
+        <div itemprop="recipeInstructions" class="directions text">
+            <p class="line">Make the Russian dressing: In a small bowl, combine all ingredients and mix well.</p><p class="line">Make the sandwiches: Spread one side of each bread slice with 1/2 tablespoon butter. In a large nonstick skillet, arrange 2 slices of bread, buttered side down, over medium-low heat. Spread 2 tablespoons of Russian dressing on each slice of bread, then top each with 1/4 pound corned beef, 1/4 cup sauerkraut and 2 slices cheese. Top each with 1 slice of bread, buttered side up. Cook until golden and crispy underneath, about 5 minutes. Flip the sandwiches and cook, pressing down gently with a spatula, until second side is golden and cheese melts, about 3 minutes more. Transfer sandwiches to plates and wipe out skillet. Repeat with the remaining bread, sauce, corned beef, sauerkraut and cheese. Serve warm.</p>
+        </div>
+    </div>
+
+    <!-- Notes -->
+
+
+    <!-- Nutrition (in regular mode it goes below the notes) -->
+        <!-- Used in two different places depending on the recipe layout -->
+<div class="nutritionbox textbox">
+    <h3 class="subhead">Nutrition</h3>
+    <div itemprop="nutrition" class="nutrition text">
+        <p>Trans Fat: 0 grams<br/>Fat: 18 grams<br/>Calories: 254<br/>Saturated Fat: 7 grams<br/>Unsaturated Fat: 10 grams<br/>Sodium: 704 milligrams<br/>Sugar: 4 grams<br/>Fiber: 1 gram<br/>Carbohydrate: 12 grams<br/>Protein: 10 grams</p>
+    </div>
+</div>
+
+    
+    </div>
+    
+    <div class="clear"></div>
+
+</div>
+
+
+
+    </body>
+</html>

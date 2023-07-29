@@ -1,0 +1,181 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <style type="text/css">
+            /* Shared styles */
+            body {
+                font-family: Helvetica, sans-serif;
+                font-size: 16px;
+                color: #34302e;
+                margin: 0.25in;
+            }
+            @page {
+                size: letter portrait;
+                margin: 0.25in;
+            }
+            .name {
+                font-size: 18px;
+                font-family: Helvetica, sans-serif;
+                font-weight: normal;
+                margin: 0 0 10px 0;
+            }
+            .categories {
+                color: #605D5D;
+                font-size: 14px;
+                font-family: Helvetica, sans-serif;
+                font-style: italic;
+            }
+            .rating {
+                color: #d10505;
+                font-size: 14px;
+            }
+            .metadata {
+                font-size: 14px;
+            }
+            .infobox p {
+                margin: 0;
+                line-height: 150%;
+            }
+            .subhead {
+                color: #d10505;
+                font-weight: bold;
+                font-size: 14px;
+                text-transform: uppercase;
+                margin: 10px 0;
+            }
+            
+            .ingredients p {
+                margin: 4px 0;
+            }
+            /* To prevent nutrition/directions from getting too close
+               to ingredients */
+            .ingredients {
+                padding-bottom: 10px;
+            }
+            .clear {
+                clear:both;
+            }
+            a {
+                color: #4990E2;
+                text-decoration: none;
+            }
+            /* Full page specific styles */
+            .text {
+                line-height: 130%;
+            }
+            .photobox {
+                float: left;
+                margin-right: 14px;
+                            }
+            .photo {
+                max-width: 140px;
+                max-height: 140px;
+                width: auto;
+                height: auto;
+            }
+            .inline-image {
+                max-width: 25%;
+                max-height: 25%;
+                width: auto;
+                height: auto;
+            }
+            .photoswipe {
+                border: 1px #dddddd solid;
+                cursor: pointer;
+            }
+            .pswp__caption__center {
+                text-align: center !important;
+            }
+            .recipe {
+                page-break-after: always;
+                            }
+            .recipe:first-child {
+                border-top: 0 none;
+                margin-top: 0;
+                padding-top: 0;
+            }
+        </style>
+    </head>
+    <body>
+        <!-- Recipe -->
+<div class="recipe" itemscope itemtype="http://schema.org/Recipe" >
+    
+    <div class="infobox">
+
+        <!-- Image -->
+        <div class="photobox">
+            <a href="https://static01.nyt.com/images/2018/06/05/dining/31COOKING-POTATO-GRATIN2/31COOKING-POTATO-GRATIN2-articleLarge.jpg">
+                <img src="Images/D6A7AC2C-D074-42C8-8577-65FE3716B21A/60B5878F-D6C4-44F3-A307-A3D9CF8AC9D0.jpg" itemprop="image" class="photo photoswipe"/>
+            </a>
+                    </div>
+
+        <!-- Name -->
+        <h1 itemprop="name" class="name">Julia Child&#8217;s Proven&#231;al Potato Gratin</h1>
+        
+        <!-- Info -->
+        
+        <!-- Rating, categories -->
+        <p itemprop="aggregateRating" class="rating" value="0"></p>
+        
+        <p class="metadata">
+        
+            <!-- Cook time, prep time, servings, difficulty -->
+            <b>Cook Time: </b><span itemprop="">1 1/2 hours</span>
+            <b>Servings: </b><span itemprop="">Yield 6 servings</span>
+
+            <!-- Source -->
+                <b>Source: </b>
+                    <a itemprop="url" href="https://cooking.nytimes.com/recipes/1018308-julia-childs-provencal-potato-gratin">
+                        <span itemprop="author">Cooking.nytimes.com</span>
+                    </a>
+                            
+        </p>
+        
+        <div class="clear"></div>
+
+    </div>
+    
+    <div class="left-column">
+
+        <!-- Ingredients -->
+        <div class="ingredientsbox">
+            <h3 class="subhead">Ingredients</h3>
+            <div class="ingredients text">
+                <p class="line" itemprop="recipeIngredient"><strong>2 to 3</strong> onions, thinly sliced (2 heaping cups)</p><p class="line" itemprop="recipeIngredient"><strong>¼</strong> cup extra-virgin olive oil, more for drizzling</p><p class="line" itemprop="recipeIngredient">Salt and freshly cracked black pepper</p><p class="line" itemprop="recipeIngredient"><strong>1 ½</strong> pounds ripe tomatoes, seeded and cut into strips about 3/8-inch wide</p><p class="line" itemprop="recipeIngredient"><strong>1</strong> 2-ounce can anchovies packed in olive oil, drained (reserve anchovies and oil separately)</p><p class="line" itemprop="recipeIngredient"><strong>2</strong> large cloves garlic, smashed and peeled</p><p class="line" itemprop="recipeIngredient"><strong>1</strong> tablespoon fresh herbs, such as thyme, oregano or savory, or 1 teaspoon dried herbes de Provence</p><p class="line" itemprop="recipeIngredient">About 2 pounds thin-skinned, waxy potatoes like Yukon Gold, sliced 1/8-inch thick (6 to 7 cups)</p><p class="line" itemprop="recipeIngredient"><strong>½</strong> cup grated Parmigiano-Reggiano or Gruyère</p>
+            </div>
+        </div>
+        
+        <!-- Nutrition (in two-column mode it goes below the ingredients) -->
+
+    </div>
+    
+    <div class="right-column">
+    
+    <!-- Description -->
+
+    <!-- Directions -->
+    <div class="directionsbox">
+        <h3 class="subhead">Directions</h3>
+        <div itemprop="recipeInstructions" class="directions text">
+            <p class="line">Heat oven to 400 degrees and place a rack at the middle level. In a large saucepan, combine onions and 2 tablespoons olive oil and stir to coat over low heat. Sprinkle lightly with salt. At a gentle simmer, cook uncovered until onions are softened and lightly golden, 10 to 15 minutes, stirring often. Do not brown; lower the heat if necessary. When done, fold in tomatoes just until heated through. Set aside.</p><p class="line">In a small food processor or a mortar, add the anchovies — anywhere from 6 to 12 fillets, depending on their size and your taste. Add garlic, herbs and a dozen grinds of pepper. Add 2 tablespoons olive oil (or use the oil from the anchovy can, if you like). Crush or pulse together into a chunky paste, thinning with oil as needed to make a loose, fluid mixture.</p><p class="line">In a medium-size baking dish, spread a quarter of the onion-tomato mixture. On top, arrange half the potato slices, then half the anchovy mixture. Add half the remaining onion-tomato mixture. Build one more layer with remaining potato slices, anchovy mixture and onion-tomato mixture. Sprinkle cheese on top and drizzle with olive oil.</p><p class="line">If the dish is very full, place on a baking sheet. Transfer to oven and bake, uncovered, until potatoes are tender and have absorbed all of the juices in the bottom of the dish, 40 to 50 minutes. Test by tasting a bit of potato; it should be soft all the way through, with no raw taste. If the top is browning too fast, cover very loosely with a sheet of foil. If the top is not brown enough when the potatoes are cooked, broil briefly until deliciously glazed.</p><p class="line">Serve gratin hot or warm. Can be cooled and reheated later the same day, but do not refrigerate.</p>
+        </div>
+    </div>
+
+    <!-- Notes -->
+
+
+    <!-- Nutrition (in regular mode it goes below the notes) -->
+        <!-- Used in two different places depending on the recipe layout -->
+
+    
+    </div>
+    
+    <div class="clear"></div>
+
+</div>
+
+
+
+    </body>
+</html>

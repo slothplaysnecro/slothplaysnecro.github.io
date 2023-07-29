@@ -1,0 +1,182 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <style type="text/css">
+            /* Shared styles */
+            body {
+                font-family: Helvetica, sans-serif;
+                font-size: 16px;
+                color: #34302e;
+                margin: 0.25in;
+            }
+            @page {
+                size: letter portrait;
+                margin: 0.25in;
+            }
+            .name {
+                font-size: 18px;
+                font-family: Helvetica, sans-serif;
+                font-weight: normal;
+                margin: 0 0 10px 0;
+            }
+            .categories {
+                color: #605D5D;
+                font-size: 14px;
+                font-family: Helvetica, sans-serif;
+                font-style: italic;
+            }
+            .rating {
+                color: #d10505;
+                font-size: 14px;
+            }
+            .metadata {
+                font-size: 14px;
+            }
+            .infobox p {
+                margin: 0;
+                line-height: 150%;
+            }
+            .subhead {
+                color: #d10505;
+                font-weight: bold;
+                font-size: 14px;
+                text-transform: uppercase;
+                margin: 10px 0;
+            }
+            
+            .ingredients p {
+                margin: 4px 0;
+            }
+            /* To prevent nutrition/directions from getting too close
+               to ingredients */
+            .ingredients {
+                padding-bottom: 10px;
+            }
+            .clear {
+                clear:both;
+            }
+            a {
+                color: #4990E2;
+                text-decoration: none;
+            }
+            /* Full page specific styles */
+            .text {
+                line-height: 130%;
+            }
+            .photobox {
+                float: left;
+                margin-right: 14px;
+                            }
+            .photo {
+                max-width: 140px;
+                max-height: 140px;
+                width: auto;
+                height: auto;
+            }
+            .inline-image {
+                max-width: 25%;
+                max-height: 25%;
+                width: auto;
+                height: auto;
+            }
+            .photoswipe {
+                border: 1px #dddddd solid;
+                cursor: pointer;
+            }
+            .pswp__caption__center {
+                text-align: center !important;
+            }
+            .recipe {
+                page-break-after: always;
+                            }
+            .recipe:first-child {
+                border-top: 0 none;
+                margin-top: 0;
+                padding-top: 0;
+            }
+        </style>
+    </head>
+    <body>
+        <!-- Recipe -->
+<div class="recipe" itemscope itemtype="http://schema.org/Recipe" >
+    
+    <div class="infobox">
+
+        <!-- Image -->
+        <div class="photobox">
+            <a href="https://static01.nyt.com/images/2021/08/25/dining/20NO-COOKRex1-Chicken-Nectarine-Salad/merlin_191889447_2083e49c-2774-4616-bc26-fe1c947e67c4-articleLarge.jpg">
+                <img src="Images/D321F344-F8C4-4ECD-8F0B-6D45FE71407E/D916AE97-4331-4558-BC2B-6620DA9C799C.jpg" itemprop="image" class="photo photoswipe"/>
+            </a>
+                    </div>
+
+        <!-- Name -->
+        <h1 itemprop="name" class="name">Chicken Salad with Nectarines and Goat Cheese</h1>
+        
+        <!-- Info -->
+        
+        <!-- Rating, categories -->
+        <p itemprop="aggregateRating" class="rating" value="0"></p>
+        
+        <p class="metadata">
+        
+            <!-- Cook time, prep time, servings, difficulty -->
+            <b>Cook Time: </b><span itemprop="">15 minutes</span>
+            <b>Total Time: </b><span itemprop="">15 min</span>
+            <b>Servings: </b><span itemprop="">4 to 6 servings</span>
+
+            <!-- Source -->
+                <b>Source: </b>
+                    <a itemprop="url" href="https://cooking.nytimes.com/recipes/1022446-chicken-salad-with-nectarines-and-goat-cheese?action=click&amp;module=Global%20Search%20Recipe%20Card&amp;pgType=search&amp;rank=1">
+                        <span itemprop="author">Cooking.nytimes.com</span>
+                    </a>
+                            
+        </p>
+        
+        <div class="clear"></div>
+
+    </div>
+    
+    <div class="left-column">
+
+        <!-- Ingredients -->
+        <div class="ingredientsbox">
+            <h3 class="subhead">Ingredients</h3>
+            <div class="ingredients text">
+                <p class="line" itemprop="recipeIngredient"><strong>1 1/2 to 2</strong> pounds ripe but firm nectarines, pitted and sliced (4 to 6)</p><p class="line" itemprop="recipeIngredient"><strong>1</strong> large shallot, thinly sliced</p><p class="line" itemprop="recipeIngredient"><strong>6</strong> tablespoons lemon juice, plus more to taste (from 2 lemons)</p><p class="line" itemprop="recipeIngredient">Kosher salt and black pepper</p><p class="line" itemprop="recipeIngredient"><strong>1</strong> cup buttermilk, plus more as needed</p><p class="line" itemprop="recipeIngredient"><strong>8</strong> ounces goat cheese, preferably herbed, at room temperature</p><p class="line" itemprop="recipeIngredient"><strong>1</strong> tablespoon lemon zest</p><p class="line" itemprop="recipeIngredient"><strong>3 to 4</strong> cups shredded cooked chicken (from about 1 rotisserie chicken) </p><p class="line" itemprop="recipeIngredient"><strong>1 to 2</strong> cups lightly crushed pita chips</p><p class="line" itemprop="recipeIngredient"><strong>1/4</strong> cup extra-virgin olive oil, plus more to taste</p><p class="line" itemprop="recipeIngredient"><strong>8 to 10</strong> ounces salad greens, such as mature spinach, arugula or watercress</p>
+            </div>
+        </div>
+        
+        <!-- Nutrition (in two-column mode it goes below the ingredients) -->
+
+    </div>
+    
+    <div class="right-column">
+    
+    <!-- Description -->
+
+    <!-- Directions -->
+    <div class="directionsbox">
+        <h3 class="subhead">Directions</h3>
+        <div itemprop="recipeInstructions" class="directions text">
+            <p class="line">In a large bowl, stir together the nectarines, shallot and lemon juice. Season to taste with salt and pepper. In a medium bowl, mash together the buttermilk, goat cheese and lemon zest. Season to taste with salt and pepper and thin with more buttermilk until it’s the consistency of a dip. (Both mixtures can be made up to an hour ahead and refrigerated. Bring to room temperature before eating.)</p><p class="line">When you’re ready to eat, add the chicken, pita chips, and olive oil to the nectarines and stir to combine. Add the greens, season them with salt and pepper, and stir once more. Taste and adjust salt, pepper, lemon juice, and oil until flavors are bright and punchy. </p><p class="line">Spread the goat cheese cream on plates, then top with the salad (or dot the salad with the goat cheese cream). Serve immediately.</p>
+        </div>
+    </div>
+
+    <!-- Notes -->
+
+
+    <!-- Nutrition (in regular mode it goes below the notes) -->
+        <!-- Used in two different places depending on the recipe layout -->
+
+    
+    </div>
+    
+    <div class="clear"></div>
+
+</div>
+
+
+
+    </body>
+</html>

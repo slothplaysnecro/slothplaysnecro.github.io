@@ -1,0 +1,181 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <style type="text/css">
+            /* Shared styles */
+            body {
+                font-family: Helvetica, sans-serif;
+                font-size: 16px;
+                color: #34302e;
+                margin: 0.25in;
+            }
+            @page {
+                size: letter portrait;
+                margin: 0.25in;
+            }
+            .name {
+                font-size: 18px;
+                font-family: Helvetica, sans-serif;
+                font-weight: normal;
+                margin: 0 0 10px 0;
+            }
+            .categories {
+                color: #605D5D;
+                font-size: 14px;
+                font-family: Helvetica, sans-serif;
+                font-style: italic;
+            }
+            .rating {
+                color: #d10505;
+                font-size: 14px;
+            }
+            .metadata {
+                font-size: 14px;
+            }
+            .infobox p {
+                margin: 0;
+                line-height: 150%;
+            }
+            .subhead {
+                color: #d10505;
+                font-weight: bold;
+                font-size: 14px;
+                text-transform: uppercase;
+                margin: 10px 0;
+            }
+            
+            .ingredients p {
+                margin: 4px 0;
+            }
+            /* To prevent nutrition/directions from getting too close
+               to ingredients */
+            .ingredients {
+                padding-bottom: 10px;
+            }
+            .clear {
+                clear:both;
+            }
+            a {
+                color: #4990E2;
+                text-decoration: none;
+            }
+            /* Full page specific styles */
+            .text {
+                line-height: 130%;
+            }
+            .photobox {
+                float: left;
+                margin-right: 14px;
+                            }
+            .photo {
+                max-width: 140px;
+                max-height: 140px;
+                width: auto;
+                height: auto;
+            }
+            .inline-image {
+                max-width: 25%;
+                max-height: 25%;
+                width: auto;
+                height: auto;
+            }
+            .photoswipe {
+                border: 1px #dddddd solid;
+                cursor: pointer;
+            }
+            .pswp__caption__center {
+                text-align: center !important;
+            }
+            .recipe {
+                page-break-after: always;
+                            }
+            .recipe:first-child {
+                border-top: 0 none;
+                margin-top: 0;
+                padding-top: 0;
+            }
+        </style>
+    </head>
+    <body>
+        <!-- Recipe -->
+<div class="recipe" itemscope itemtype="http://schema.org/Recipe" >
+    
+    <div class="infobox">
+
+        <!-- Image -->
+        <div class="photobox">
+            <a href="https://static01.nyt.com/images/2010/12/07/science/10recipehealth/10recipehealth-articleLarge-v2.jpg">
+                <img src="Images/62A0212B-02A3-42D4-BADB-6E9FE701C17B/9A32AC98-E069-4F66-8685-3636925BE00F.jpg" itemprop="image" class="photo photoswipe"/>
+            </a>
+                    </div>
+
+        <!-- Name -->
+        <h1 itemprop="name" class="name">Pasta with Tomatoes, Capers, Olives and Breadcrumbs</h1>
+        
+        <!-- Info -->
+        
+        <!-- Rating, categories -->
+        <p itemprop="aggregateRating" class="rating" value="0"></p>
+        
+        <p class="metadata">
+        
+            <!-- Cook time, prep time, servings, difficulty -->
+            <b>Cook Time: </b><span itemprop="">30 minutes</span>
+            <b>Servings: </b><span itemprop="">Serves four</span>
+
+            <!-- Source -->
+                <b>Source: </b>
+                    <a itemprop="url" href="https://cooking.nytimes.com/recipes/1013717-pasta-with-tomatoes-capers-olives-and-breadcrumbs?action=click&amp;module=Collection%20Page%20Recipe%20Card&amp;region=19%20Vegetarian(ish)%20Weeknight%20Pasta%20Dishes&amp;pgType=collection&amp;rank=5">
+                        <span itemprop="author">Cooking.nytimes.com</span>
+                    </a>
+                            
+        </p>
+        
+        <div class="clear"></div>
+
+    </div>
+    
+    <div class="left-column">
+
+        <!-- Ingredients -->
+        <div class="ingredientsbox">
+            <h3 class="subhead">Ingredients</h3>
+            <div class="ingredients text">
+                <p class="line" itemprop="recipeIngredient"><strong>3</strong> tablespoons extra virgin olive oil</p><p class="line" itemprop="recipeIngredient"><strong>3</strong> garlic cloves, 2 sliced, 1 minced</p><p class="line" itemprop="recipeIngredient"><strong>½</strong> cup fresh bread crumbs</p><p class="line" itemprop="recipeIngredient"><strong>¼</strong> teaspoon hot red pepper flakes</p><p class="line" itemprop="recipeIngredient"><strong>2</strong> 14-ounce can chopped tomatoes, with juice</p><p class="line" itemprop="recipeIngredient"><strong>2</strong> tablespoons capers, rinsed and coarsely chopped</p><p class="line" itemprop="recipeIngredient"><strong>½</strong> cup green or black olives, pitted and coarsely chopped 2 ounces</p><p class="line" itemprop="recipeIngredient">Salt</p><p class="line" itemprop="recipeIngredient">freshly ground pepper</p><p class="line" itemprop="recipeIngredient"><strong>¾</strong> pound protein spaghetti</p><p class="line" itemprop="recipeIngredient"><strong>¼</strong> cup chopped fresh parsley (optional)</p><p class="line" itemprop="recipeIngredient"><strong>¼</strong> cup freshly grated Parmesan (optional)</p>
+            </div>
+        </div>
+        
+        <!-- Nutrition (in two-column mode it goes below the ingredients) -->
+
+    </div>
+    
+    <div class="right-column">
+    
+    <!-- Description -->
+
+    <!-- Directions -->
+    <div class="directionsbox">
+        <h3 class="subhead">Directions</h3>
+        <div itemprop="recipeInstructions" class="directions text">
+            <p class="line">Begin heating a large pot of water for the pasta. Meanwhile, combine 2 tablespoons of the olive oil and the sliced garlic over medium-low heat in a medium saucepan or skillet. Cook, stirring often, until the garlic turns golden, about two minutes. Do not let it take on any more color than this. Remove the garlic slices with a slotted spoon and discard, then add the bread crumbs to the pan. Turn the heat to medium, and cook, stirring, until the bread crumbs are crisp. Remove from the heat, and set aside.</p><p class="line">Return the pan to medium heat, and add the remaining olive oil, the red pepper flakes and the minced garlic. Cook for about 30 seconds until the garlic smells fragrant, and add the tomatoes, capers and olives. Bring to a simmer, and simmer until the tomatoes have cooked down and smell fragrant, 15 to 20 minutes. Season with salt and pepper.</p><p class="line">When the water comes to a boil, salt generously and add the spaghetti. Cook al dente, following the cooking recommendations on the package but checking about a minute before the suggested time. Drain, and toss with the tomato sauce. Sprinkle the bread crumbs and parsley on top, toss again briefly and serve, passing the Parmesan at the table.</p>
+        </div>
+    </div>
+
+    <!-- Notes -->
+
+
+    <!-- Nutrition (in regular mode it goes below the notes) -->
+        <!-- Used in two different places depending on the recipe layout -->
+
+    
+    </div>
+    
+    <div class="clear"></div>
+
+</div>
+
+
+
+    </body>
+</html>
