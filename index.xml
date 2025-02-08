@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sloth&#39;s Shitty Blog</title>
+    <link>https://sloth.direct/</link>
+    <description>Recent content on Sloth&#39;s Shitty Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>user@example.com (Hugo Author)</managingEditor>
+    <webMaster>user@example.com (Hugo Author)</webMaster>
+    <copyright>Sloth</copyright>
+    <lastBuildDate>Fri, 07 Feb 2025 18:22:01 -0500</lastBuildDate>
+    <atom:link href="https://sloth.direct/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Title</title>
+      <link>https://sloth.direct/posts/test/</link>
+      <pubDate>Fri, 07 Feb 2025 18:22:01 -0500</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>https://sloth.direct/posts/test/</guid>
+      <description>yo</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://sloth.direct/manifest.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>https://sloth.direct/manifest.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://sloth.direct/search/_index.de/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>https://sloth.direct/search/_index.de/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://sloth.direct/search/_index.es/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>https://sloth.direct/search/_index.es/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://sloth.direct/search/_index.fr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>https://sloth.direct/search/_index.fr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://sloth.direct/search/_index.hi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>https://sloth.direct/search/_index.hi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://sloth.direct/search/_index.jp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>https://sloth.direct/search/_index.jp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://sloth.direct/search/_index.nl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>https://sloth.direct/search/_index.nl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://sloth.direct/search/_index.pl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>https://sloth.direct/search/_index.pl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://sloth.direct/search/_index.ru/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>https://sloth.direct/search/_index.ru/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://sloth.direct/search/_index.zh-cn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Hugo Author)</author>
+      <guid>https://sloth.direct/search/_index.zh-cn/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
