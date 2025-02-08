@@ -8,8 +8,15 @@
     <language>en</language>
     <managingEditor>sloth@sloth.direct (Sloth)</managingEditor>
     <webMaster>sloth@sloth.direct (Sloth)</webMaster>
-    <lastBuildDate>Fri, 07 Feb 2025 18:22:01 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 07 Feb 2025 21:37:11 -0500</lastBuildDate>
     <atom:link href="https://sloth.direct/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://sloth.direct/about/</link>
+      <pubDate>Fri, 07 Feb 2025 21:37:11 -0500</pubDate><author>sloth@sloth.direct (Sloth)</author>
+      <guid>https://sloth.direct/about/</guid>
+      <description>lol write this later!</description>
+    </item>
     <item>
       <title>Title</title>
       <link>https://sloth.direct/posts/test/</link>
