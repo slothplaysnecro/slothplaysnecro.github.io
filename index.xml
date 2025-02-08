@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sloth&#39;s Shitty Blog</title>
+    <link>https://sloth.direct/</link>
+    <description>Recent content on Sloth&#39;s Shitty Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>sloth@sloth.direct (Sloth)</managingEditor>
+    <webMaster>sloth@sloth.direct (Sloth)</webMaster>
+    <copyright>Sloth</copyright>
+    <lastBuildDate>Sat, 08 Feb 2025 05:47:31 -0500</lastBuildDate>
+    <atom:link href="https://sloth.direct/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://sloth.direct/about/</link>
+      <pubDate>Sat, 08 Feb 2025 05:47:31 -0500</pubDate><author>sloth@sloth.direct (Sloth)</author>
+      <guid>https://sloth.direct/about/</guid>
+      <description>Hello! I&amp;rsquo;m Sloth (he/him), a WNY-based chronic shitposter. I am not a Bills fan, as I value the structural integrity of my tables.&#xA;I&amp;rsquo;ve been around various parts of the internet in various capacities. I was an MMO livestreamer for a very long time, but have recently burned out of the genre. Nowadays, most of my gaming time is spent catching up on all of the long single-player RPGs I&amp;rsquo;ve been neglecting.</description>
+    </item>
+    <item>
+      <title>I Own a French Press Now</title>
+      <link>https://sloth.direct/posts/french-press/</link>
+      <pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate><author>sloth@sloth.direct (Sloth)</author>
+      <guid>https://sloth.direct/posts/french-press/</guid>
+      <description>look at this absolute unit&#xA;Ever since I started living alone, I&amp;rsquo;ve gotten really into coffee. Initially, I started out with an automatic brewing machine and a grinder, which is still extremely useful. If I wake up late and need coffee fast, it does the job!&#xA;Should a miracle occur and I manage to wake up on time, I&amp;rsquo;ll make my morning coffee with my French press. I got inspired to learn how to make higher quality coffee after playing Persona 5 Royal and getting carried on SP sustain by Sojiro&amp;rsquo;s brewing lessons.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://sloth.direct/manifest.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>sloth@sloth.direct (Sloth)</author>
+      <guid>https://sloth.direct/manifest.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://sloth.direct/search/_index.de/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>sloth@sloth.direct (Sloth)</author>
+      <guid>https://sloth.direct/search/_index.de/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://sloth.direct/search/_index.es/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>sloth@sloth.direct (Sloth)</author>
+      <guid>https://sloth.direct/search/_index.es/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://sloth.direct/search/_index.fr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>sloth@sloth.direct (Sloth)</author>
+      <guid>https://sloth.direct/search/_index.fr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://sloth.direct/search/_index.hi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>sloth@sloth.direct (Sloth)</author>
+      <guid>https://sloth.direct/search/_index.hi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://sloth.direct/search/_index.jp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>sloth@sloth.direct (Sloth)</author>
+      <guid>https://sloth.direct/search/_index.jp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://sloth.direct/search/_index.nl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>sloth@sloth.direct (Sloth)</author>
+      <guid>https://sloth.direct/search/_index.nl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://sloth.direct/search/_index.pl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>sloth@sloth.direct (Sloth)</author>
+      <guid>https://sloth.direct/search/_index.pl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://sloth.direct/search/_index.ru/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>sloth@sloth.direct (Sloth)</author>
+      <guid>https://sloth.direct/search/_index.ru/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://sloth.direct/search/_index.zh-cn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>sloth@sloth.direct (Sloth)</author>
+      <guid>https://sloth.direct/search/_index.zh-cn/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
