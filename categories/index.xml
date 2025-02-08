@@ -6,9 +6,8 @@
     <description>Recent content in Categories on Sloth&#39;s Shitty Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>user@example.com (Hugo Author)</managingEditor>
-    <webMaster>user@example.com (Hugo Author)</webMaster>
-    <copyright>Sloth</copyright>
+    <managingEditor>sloth@sloth.direct (Sloth)</managingEditor>
+    <webMaster>sloth@sloth.direct (Sloth)</webMaster>
     <atom:link href="https://sloth.direct/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
