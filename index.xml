@@ -9,8 +9,15 @@
     <managingEditor>sloth@sloth.direct (Sloth)</managingEditor>
     <webMaster>sloth@sloth.direct (Sloth)</webMaster>
     <copyright>Sloth</copyright>
-    <lastBuildDate>Sat, 08 Feb 2025 05:47:31 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://sloth.direct/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stories from a Defunct Drugstore</title>
+      <link>https://sloth.direct/posts/stories-from-a-defunct-drugstore/</link>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate><author>sloth@sloth.direct (Sloth)</author>
+      <guid>https://sloth.direct/posts/stories-from-a-defunct-drugstore/</guid>
+      <description>Rite Aid is officially no more. Working in the retail end was my first real job after high school, so I have a lot of stories. This is a highly unorganized collections of my memories from the store.&#xA;I would like to clarify, up-front and in clear text, that all of these stories do not involve the pharmacy. All names are made up to avoid leaking any personally identifiable information, as Rite Aid was a healthcare corporation.</description>
+    </item>
     <item>
       <title>About</title>
       <link>https://sloth.direct/about/</link>

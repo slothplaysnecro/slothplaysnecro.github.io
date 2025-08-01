@@ -2,16 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sloth.direct/posts/</loc>
+    <lastmod>2025-07-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sloth.direct/</loc>
+    <lastmod>2025-07-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sloth.direct/posts/stories-from-a-defunct-drugstore/</loc>
+    <lastmod>2025-07-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://sloth.direct/about/</loc>
     <lastmod>2025-02-08T05:47:31-05:00</lastmod>
   </url><url>
-    <loc>https://sloth.direct/</loc>
-    <lastmod>2025-02-08T05:47:31-05:00</lastmod>
-  </url><url>
     <loc>https://sloth.direct/posts/french-press/</loc>
-    <lastmod>2025-02-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sloth.direct/posts/</loc>
     <lastmod>2025-02-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sloth.direct/manifest.json</loc>
